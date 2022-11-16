@@ -1,0 +1,13 @@
+body{
+    background-color:skyblue
+    }
+    .heading{
+        font-size: 30px;
+        padding: 5px;
+        text-shadow: 2px 2px red;
+    }
+    #camera{
+    width: 400px ;
+    height: 300px;
+    border: 10px solid white;
+    }
